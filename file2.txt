@@ -1,3 +1,7 @@
 Hello this is new file2 in main branch.
+
 Prepared for second commit main.
 Changes made in remote
+
+This is in feature branch
+

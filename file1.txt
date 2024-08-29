@@ -1,2 +1,6 @@
 Hello this is new file in main branch
+
 Prepared for second commit in main.
+
+This is in feature branch
+
